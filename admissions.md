@@ -8,14 +8,14 @@ Use Ctrl + F (Windows) or ⌘ + F (Mac) to search within this page.
 <details>
 <summary><strong>How do I apply?</strong></summary>
 
-All applicants are encouraged to apply online via the University of Technology, Jamaica website.<br/>
+<p>All applicants are encouraged to apply online via the University of Technology, Jamaica website.<br/>
 
 Supporting documents include:
 - Academic certificates  
 - Birth Certificate or Certificate of Citizenship  
 - Marriage Certificate (if applicable)  
 - Tax Registration Number (TRN)  
-- National Identification (Passport, Driver’s Licence, or Voter’s ID, if applicable)
+- National Identification (Passport, Driver’s Licence, or Voter’s ID, if applicable)</p>
 
 <strong>Transcripts:</strong>  
 - Undergraduate (current or past UTech students): Not required  

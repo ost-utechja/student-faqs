@@ -33,3 +33,35 @@ Use the search below or browse by category.
 ## 💰 Fees, Funding & Financial Support
 - [Fees & Registration](fees.html)
 - [Scholarships](scholarships.html)
+- [Students' Loan Bureau (SLB)](slb.html)
+
+---
+
+## 🏠 Campus Life & Services
+- [Accommodation](accommodation.html)
+- [Centre for the Arts](arts.html)
+
+---
+
+## 📝 Academics & Records
+- [Examinations](exams.html)
+- [Student Records](records.html)
+
+---
+
+## 🎓 General Information
+- [Other FAQs](other.html)
+- [UTechOpen](utechopen.html)
+
+---
+
+<strong>Tips for students</strong>
+- Use <strong>Ctrl + F</strong> (Windows) or <strong>⌘ + F</strong> (Mac)
+- Search works best using keywords (fees, loan, exam)
+- Tap a result to open the full answer page
+
+---
+
+<script src="search.js"></script>
+
+_Last updated: April 2026_

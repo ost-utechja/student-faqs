@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Admissions",
+    "url": "admissions.html",
+    "content": "apply application documents transcripts mature student admission"
+  },
+  {
+    "title": "Fees & Registration",
+    "url": "fees.html",
+    "content": "tuition payment ecd balance clearance registration fees"
+  },
+  {
+    "title": "Scholarships",
+    "url": "scholarships.html",
+    "content": "scholarship sponsor funding cheque refund"
+  },
+  {
+    "title": "Student Loan Bureau",
+    "url": "slb.html",
+    "content": "loan slb grant aid tuition payment"
+  },
+  {
+    "title": "Accommodation",
+    "url": "accommodation.html",
+    "content": "housing dorm residence boarding"
+  },
+  {
+    "title": "Examinations",
+    "url": "exams.html",
+    "content": "exam timetable clash sickness medical"
+  },
+  {
+    "title": "Student Records",
+    "url": "records.html",
+    "content": "transcript ID letter records"
+  },
+  {
+    "title": "Other FAQs",
+    "url": "other.html",
+    "content": "graduation probation transfer leave"
+  }
+]

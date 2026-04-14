@@ -25,44 +25,11 @@ Use the search below or browse by category.
 ---
 
 ## 📚 Admissions & Enrollment
-- admissions.html
-- add-drop.html
+- [Admissions](admissions.html)
+- [Add / Drop Process](add-drop.html)
 
 ---
 
 ## 💰 Fees, Funding & Financial Support
-- fees.html
-- scholarships.html
-- slb.html
-
----
-
-## 🏠 Campus Life & Services
-- accommodation.html
-- arts.html
-
----
-
-## 📝 Academics & Records
-- exams.html
-- records.html
-
----
-
-## 🎓 General Information
-- other.html
-- utechopen.html
-
----
-
-<strong>Tips for students</strong>
-- Use <strong>Ctrl + F</strong> (Windows) or <strong>⌘ + F</strong> (Mac) on any page
-- Search works best using keywords (for example: fees, loan, exam)
-- Tap a result to open the full answer page
-
----
-
-<!-- Load search functionality -->
-<script src="search.js"></script>
-
-_Last updated: April 2026_
+- [Fees & Registration](fees.html)
+- [Scholarships](scholarships.html)

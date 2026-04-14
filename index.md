@@ -39,19 +39,6 @@ No. Applicants unable to apply online may:
 </details>
 
 <details>
-<summary><strong>If I am unable to submit my documents in person, what are my options?</strong></summary>
-
-Prospective and returning students have **four (4) options** for submitting supporting documents to the University:
-
-1. **Email** documents as attachments to:  
-   📧 applicationdocuments@utech.edu.jm  
-
-2. **Registered Mail or Courier** to:  
-   Admissions and Enrolment  
-   University of Technology, Jamaica  
-   237 Old Hope Road, Kingston
-
-<details>
 <summary><strong>What is the cost of the application?</strong></summary>
 
 Applying online is **free**.

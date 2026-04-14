@@ -1,12 +1,37 @@
-# Student Frequently Asked Questions
+# Student Frequently Asked Questions (FAQs)
 
-Click a section below, then search using **Ctrl + F**.
+Welcome to the official Student FAQ portal.  
+Click a topic below to find clear answers to common questions.
 
+💡 **Tip for students:**  
+Use **Ctrl + F** (Windows) or **⌘ + F** (Mac) on any page to quickly search for keywords.
+
+---
+
+## 📚 Admissions & Enrollment
 - [Admissions](admissions.md)
-- [Fees & Registration](fees.md)
-- [Scholarships & Student Loans](scholarships
-- [Add / Drop](add-drop.md)
-- [Centre for the Arts](arts.md)
-- [Other FAQs](other.md)
+- [Add / Drop Process](add-drop.md)
 
-_Last updated: April 2026_
+---
+
+## 💰 Fees, Funding & Financial Support
+- [Fees & Registration](fees.md)
+- [Scholarships & Sponsorship](scholarships.md)
+- [Students’ Loan Bureau (SLB)](slb.md)
+
+---
+
+## 🏠 Campus Life & Services
+- [Accommodation](accommodation.md)
+- [Centre for the Arts](arts.md)
+
+---
+
+## 📝 Academics & Records
+- [Examinations](exams.md)
+- [Student Records](records.md)
+
+---
+
+## 🎓 General Information
+- [

@@ -1,10 +1,5 @@
 # Student Frequently Asked Questions (FAQs)
 
-Welcome to the official Student FAQ portal.  
-Use the search below or browse by category.
-
----
-
 <div style="text-align: right; margin-bottom: 10px;">
   <button id="themeToggle" style="
     padding: 8px 12px;
@@ -18,6 +13,11 @@ Use the search below or browse by category.
     🌙 Dark mode
   </button>
 </div>
+
+Welcome to the official Student FAQ portal.  
+Use the search below or browse by category.
+
+---
 
 ## 🔍 Search the FAQs
 

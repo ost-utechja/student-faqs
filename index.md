@@ -61,6 +61,7 @@ Use the search below or browse by category.
 ---
 
 <script src="search.js"></script>
+
 <script src="theme.js"></script>
 
 _Last updated: April 2026_

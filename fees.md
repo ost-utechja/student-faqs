@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Fees, Registration & Accounts – Frequently Asked Questions
 
 This page explains tuition fees, registration requirements, and account‑related matters.<br>

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Examinations – Frequently Asked Questions
 
 This page provides information about in‑course tests and final examinations.<br>

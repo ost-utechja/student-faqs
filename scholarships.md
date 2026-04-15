@@ -1,53 +1,50 @@
 # Scholarships & Sponsorship – Frequently Asked Questions
 
-Click a question to view the answer.  
-Use Ctrl + F (Windows) or ⌘ + F (Mac) to search within this page.
+This page explains scholarships and sponsorship arrangements available to students.<br>
+Click a question to view the full answer.
 
 ---
 
 <details>
 <summary><strong>How do I apply for a scholarship?</strong></summary>
 
-A scholarship listing is prepared for each academic year and provides information on:
+Each academic year, a Scholarship Listing is prepared outlining the scholarships available and the criteria for each award.<br><br>
 
-- Available scholarships  
-- Eligibility criteria  
-- Application requirements  
+The scholarship application period usually opens around the third week of April each year.<br><br>
 
-<strong>Application period:</strong>  
-Applications normally open around the third week of April each year.
+Application deadlines are generally as follows:<br><br>
 
-<strong>Closing deadlines:</strong>
-- Returning students (Years 2–4): June 30  
-- New students (Year 1): July 31  
+- Scholarships for returning students (Years 2–4): June 30<br>
+- Scholarships for new students (Year 1): July 31<br><br>
 
-Students are encouraged to review the University’s website regularly for updates.
+Students are advised to review the scholarship information carefully and ensure that all eligibility requirements and deadlines are met before applying.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>If I register with a Letter of Commitment for a scholarship, can I pay at the bank once I receive the cheque?</strong></summary>
+<summary><strong>If I register using a Letter of Commitment for a scholarship, can I pay at the bank when I receive the cheque?</strong></summary>
 
-No. Cheques issued under a Letter of Commitment must be submitted to the Finance and Business Services Department (Scholarship Office).
+No.<br><br>
 
-This ensures that:
-- The sponsor’s account is updated correctly  
-- The student’s account is updated accurately  
+All cheques issued under a Letter of Commitment must be submitted directly to the Finance and Business Services Department (Scholarship Office).<br><br>
+
+This ensures that both the sponsor’s account and the student’s account are properly updated.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>If my sponsor commits to paying more than my fees, when will I receive a refund?</strong></summary>
+<summary><strong>If my sponsor agrees to pay more than my tuition fees, how will I receive a refund?</strong></summary>
 
-Refunds are not processed directly from a Letter of Commitment.
+Refunds are not processed directly from a Letter of Commitment.<br><br>
 
-Any surplus payment will be refunded only after:
-- The University receives payment from the sponsor, and  
-- Written authorization is provided by the sponsor approving the refund to the student  
+If a sponsor pays more than the required tuition fees, a refund of the excess amount will be processed only after:<br><br>
+
+- The University receives payment from the sponsor, and<br>
+- Written authorisation is received from the sponsor allowing the excess amount to be refunded to the student<br>
 
 </details>
 
@@ -56,11 +53,9 @@ Any surplus payment will be refunded only after:
 <details>
 <summary><strong>What happens if I receive a scholarship after I have already paid my fees?</strong></summary>
 
-If a scholarship is applied after fees have been paid, the student may be eligible for a refund.
+If a scholarship is awarded after you have already made payment, you may be eligible for a refund.<br><br>
 
-To request a refund:
-- Submit a refund application through the student portal  
-- Follow the instructions provided by the University  
+To request a refund, you must submit a refund application using the form available on the student portal and follow the required procedures.
 
 </details>
 
@@ -69,51 +64,50 @@ To request a refund:
 <details>
 <summary><strong>How long does it take for a sponsor’s cheque payment to appear on my account?</strong></summary>
 
-Sponsor cheque payments are usually reflected on student accounts within five to ten business days after the University receives the cheque.
+Once a sponsor’s cheque is received by the University, it typically takes between five and ten business days to be processed and reflected on the student’s account.<br><br>
 
-Processing time may vary depending on verification and documentation.
-
-</details>
-
----
-
-<details>
-<summary><strong>My sponsor confirmed that payment was made. Why is it not showing on my account?</strong></summary>
-
-Once payment is received, it must go through:
-- Verification  
-- Recording  
-- Allocation to the correct student account  
-
-Delays may occur if proof of payment or required information was not submitted.  
-Students should contact the Sponsorship Unit for clarification.
+Processing time may vary depending on verification and documentation requirements.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>Can I submit proof of sponsorship to avoid being barred while waiting for the payment to be updated?</strong></summary>
+<summary><strong>My sponsor has paid, but the payment is not showing on my account. Why?</strong></summary>
 
-Yes. Students may submit:
-- An official sponsorship letter, or  
-- Written confirmation from the sponsor  
+After a payment is received, it must go through verification, recording, and allocation processes before appearing on your account.<br><br>
 
-Temporary clearance may be granted on a case‑by‑case basis by the Sponsorship Unit.
+Delays may occur if proof of payment or required documentation was not submitted or was incomplete.<br><br>
+
+Students are encouraged to contact the Sponsorship Unit for clarification if the payment does not appear within the expected timeframe.
 
 </details>
 
 ---
 
 <details>
-<summary><strong>How long does it take to update a sponsorship commitment on my student record?</strong></summary>
+<summary><strong>Can I submit proof of sponsorship to avoid being barred while waiting for my account to be updated?</strong></summary>
 
-Once all required documentation is received, sponsorship commitments are usually updated within three to seven business days.
+Yes.<br><br>
 
-Delays may occur if information is incomplete or not formally submitted.
+If you have an official sponsorship letter or written confirmation from your sponsor, you may submit it to the Sponsorship Unit.<br><br>
+
+Temporary clearance is considered on a case‑by‑case basis.
+
+</details>
+
+---
+
+<details>
+<summary><strong>How long does it take for a sponsorship commitment to be updated on my student record?</strong></summary>
+
+Once all required documentation is received, sponsorship commitments are usually updated within three to seven business days.<br><br>
+
+Delays may occur if documents are incomplete or not formally submitted.
 
 </details>
 
 ---
 
 _Last updated: April 2026_
+``

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Student Frequently Asked Questions (FAQs)
 
 Welcome to the official Student FAQ portal.  

@@ -92,5 +92,6 @@ Medical certificates submitted after this time period will not be considered.
 </details>
 
 ---
+<script src="theme.js"></script>
 
 _Last updated: April 2026_

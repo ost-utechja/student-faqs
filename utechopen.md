@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # UTechOpen – Frequently Asked Questions
 
 This page provides information about pre‑university and preparatory courses offered through UTechOpen.<br>

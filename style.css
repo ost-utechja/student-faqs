@@ -1,47 +1,149 @@
-/* Mobile-friendly search styles */
+/* =========================
+   UTech, Ja Visual Theme
+   ========================= */
 
-.search-container {
-  margin: 15px 0;
+/* Brand colours */
+:root {
+  --utech-blue: #003a8f;   /* UTech primary blue */
+  --utech-yellow: #f2b705; /* UTech accent yellow */
+  --light-gray: #f6f7f9;
+  --border-gray: #dddddd;
+  --text-dark: #1a1a1a;
 }
 
-#searchBox {
+/* Global styles */
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+  background-color: var(--light-gray);
+  color: var(--text-dark);
+  margin: 0;
+  padding: 0;
+}
+
+/* Page container */
+main, .content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: white;
+}
+
+/* Headings */
+h1 {
+  color: var(--utech-blue);
+  border-bottom: 4px solid var(--utech-yellow);
+  padding-bottom: 8px;
+}
+
+h2 {
+  color: var(--utech-blue);
+  margin-top: 30px;
+}
+
+/* Links */
+a {
+  color: var(--utech-blue);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Search box */
+.search-container input {
   width: 100%;
   padding: 14px;
-  font-size: 16px; /* prevents iOS zoom */
-  border: 1px solid #ccc;
+  font-size: 16px;
+  border: 2px solid var(--utech-blue);
   border-radius: 8px;
-  box-sizing: border-box;
-}
-
-#searchBox:focus {
-  outline: none;
-  border-color: #0056b3;
-}
-
-.search-results {
-  margin-top: 10px;
-}
-
-.search-results p {
-  margin: 8px 0;
 }
 
 .search-results a {
   display: block;
   padding: 10px;
+  margin: 6px 0;
+  background-color: var(--light-gray);
+  border-left: 5px solid var(--utech-yellow);
   border-radius: 6px;
-  text-decoration: none;
-  background-color: #f5f5f5;
-  color: #000;
 }
 
-.search-results a:hover {
-  background-color: #eaeaea;
+/* Collapsible FAQ styling */
+details {
+  border: 1px solid var(--border-gray);
+  border-left: 5px solid var(--utech-blue);
+  border-radius: 8px;
+  padding: 12px;
+  margin-bottom: 14px;
+  background-color: #ffffff;
 }
 
-/* Small screen optimization */
+details[open] {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--utech-blue);
+  list-style: none;
+}
+
+summary::marker {
+  display: none;
+}
+
+/* Highlight summary on hover */
+summary:hover {
+  color: #002560;
+}
+
+/* Chatbot box (if you added it) */
+.chatbot-box {
+  border: 2px solid var(--utech-blue);
+  border-radius: 10px;
+  padding: 16px;
+  background-color: #ffffff;
+  margin: 20px 0;
+}
+
+.chatbot-header {
+  background-color: var(--utech-blue);
+  color: white;
+  padding: 10px;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.chatbot-options a {
+  background-color: var(--utech-blue);
+  color: white;
+  padding: 10px;
+  border-radius: 6px;
+  margin-bottom: 6px;
+  display: block;
+  text-align: center;
+}
+
+.chatbot-options a:hover {
+  background-color: #002560;
+}
+
+/* Footer text */
+footer {
+  margin-top: 40px;
+  font-size: 14px;
+  color: gray;
+}
+
+/* Mobile tweaks */
 @media (max-width: 600px) {
+  body {
+    background-color: white;
+  }
+
   h1 {
-    font-size: 1.4em;
+    font-size: 1.5em;
   }
 }

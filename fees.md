@@ -252,6 +252,7 @@ When making international payments, students should include their name, student 
 </details>
 
 ---
+<script src="theme.js"></script>
 
 _Last updated: April 2026_
 ``

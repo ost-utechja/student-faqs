@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="style.css">
+
 # Admissions – Frequently Asked Questions
 
 This page explains the admissions process in a clear and student‑friendly way.<br>
